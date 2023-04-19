@@ -1,3 +1,5 @@
+# NOTICE: This hasn't been released to public versions of Star yet, as it is still in very early testing (and lacks a lot of features.)
+
 # star-lua
 Documentation for Star's Lua Scripting API.
 **This will show you every current function that can be used in the scripting API, with examples**
