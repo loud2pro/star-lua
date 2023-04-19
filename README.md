@@ -27,7 +27,7 @@ local game = Game.new()
 game:send_client_message("Hello from the Star scripting API")
 ```
 ## Sending a message to global chat
-LuaGame::send_chat will display a message to you, clientsidedly
+LuaGame::send_chat will display a message to you
 ```c++
 <void> LuaGame::send_chat(<string> message)
 ```
