@@ -1,4 +1,4 @@
-# NOTICE: This hasn't been released to public versions of Star yet, as it is still in very early testing (and lacks a lot of features.)
+## NOTICE: This hasn't been released to public versions of Star yet, as it is still in very early testing (and lacks a lot of features.)
 
 # star-lua
 Documentation for Star's Lua Scripting API.
